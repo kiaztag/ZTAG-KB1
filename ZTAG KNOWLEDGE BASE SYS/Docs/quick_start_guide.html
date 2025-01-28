@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Start Guide: Setting Up Your ZTAG System</title>
+    <style>
+        :root {
+            --primary-color: #2196F3;
+            --secondary-color: #FFC107;
+            --text-color: #333;
+            --background-color: #fff;
+            --border-color: #e0e0e0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            background-color: var(--background-color);
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        h1, h2, h3 {
+            color: var(--primary-color);
+            margin-top: 1.5em;
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 10px;
+        }
+
+        .metadata {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .metadata span {
+            display: inline-block;
+            margin: 5px 15px;
+        }
+
+        .equipment-list {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .equipment-list li {
+            margin: 10px 0;
+            padding-left: 25px;
+            position: relative;
+        }
+
+        .equipment-list li:before {
+            content: "•";
+            color: var(--primary-color);
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        .step-container {
+            background-color: #f8f9fa;
+            border-left: 4px solid var(--primary-color);
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 0 5px 5px 0;
+        }
+
+        .step-number {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 50%;
+            margin-right: 10px;
+            display: inline-block;
+        }
+
+        .checklist {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .checklist li {
+            margin: 10px 0;
+            padding-left: 30px;
+            position: relative;
+        }
+
+        .checklist li:before {
+            content: "☐";
+            position: absolute;
+            left: 0;
+            color: var(--primary-color);
+        }
+
+        .troubleshooting {
+            background-color: #fff3e0;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .troubleshooting h3 {
+            color: #f57c00;
+        }
+
+        .next-steps {
+            background-color: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .support-info {
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .related-articles {
+            border-top: 2px solid var(--border-color);
+            margin-top: 30px;
+            padding-top: 20px;
+        }
+
+        .tags {
+            margin-top: 20px;
+            color: #666;
+        }
+
+        .tag {
+            display: inline-block;
+            background-color: #e0e0e0;
+            padding: 3px 8px;
+            border-radius: 3px;
+            margin: 2px;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            
+            .container {
+                padding: 15px;
+            }
+            
+            .metadata {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .metadata span {
+                margin: 5px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quick Start Guide: Setting Up Your ZTAG System</h1>
+
+        <div class="metadata">
+            <span><strong>Time to Complete:</strong> 10-15 minutes</span>
+            <span><strong>Difficulty Level:</strong> Beginner</span>
+            <span><strong>Last Updated:</strong> [DATE]</span>
+        </div>
+
+        <section>
+            <h2>What You'll Need</h2>
+
+            <h3>Required Equipment</h3>
+            <ul class="equipment-list">
+                <li>ZUES System (yellow roll-on case)</li>
+                <li>24 Ztaggers (included in ZUES case)</li>
+                <li>Two 6-foot folding tables</li>
+                <li>Extension cord</li>
+                <li>Power source (standard outlet or 300W+ generator)</li>
+            </ul>
+
+            <h3>Optional Equipment</h3>
+            <ul class="equipment-list">
+                <li>ZTAG tablecloths</li>
+                <li>Carpet cable covers (recommended for safety)</li>
+                <li>External monitor (for larger events)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Quick Setup Steps</h2>
+
+            <div class="step-container">
+                <h3><span class="step-number">1</span> Choose Your Location</h3>
+                <ul class="equipment-list">
+                    <li>Clear, open space for player movement</li>
+                    <li>Access to power outlet</li>
+                    <li>Flat surface for tables</li>
+                    <li>Indoor or outdoor location</li>
+                </ul>
+            </div>
+
+            <div class="step-container">
+                <h3><span class="step-number">2</span> Set Up Tables</h3>
+                <ol>
+                    <li>Place two 6-foot tables within reach of power source</li>
+                    <li>Position first table for ZUES system</li>
+                    <li>Use second table for ztagger distribution</li>
+                    <li>(Optional) Cover tables with ZTAG tablecloths</li>
+                </ol>
+            </div>
+
+            <div class="step-container">
+                <h3><span class="step-number">3</span> Power Up ZUES</h3>
+                <ol>
+                    <li>Place ZUES case on first table</li>
+                    <li>Connect power cable to outlet</li>
+                    <li>Press power button</li>
+                    <li>Wait for system to initialize (~2 minutes)</li>
+                    <li>Verify wireless network is active (indicator on screen)</li>
+                </ol>
+            </div>
+
+            <div class="step-container">
+                <h3><span class="step-number">4</span> Prepare Ztaggers</h3>
+                <ol>
+                    <li>Open ZUES case</li>
+                    <li>Remove ztaggers from charging bays</li>
+                    <li>Place on distribution table</li>
+                    <li>Verify each ztagger powers on</li>
+                    <li>Confirm connection to ZUES (check screen)</li>
+                </ol>
+            </div>
+
+            <div class="step-container">
+                <h3><span class="step-number">5</span> Test the System</h3>
+                <ol>
+                    <li>Select any game mode</li>
+                    <li>Assign 2-3 ztaggers for testing</li>
+                    <li>Run a quick 30-second game</li>
+                    <li>Verify sound and vibration</li>
+                    <li>Check that scores display correctly</li>
+                </ol>
+            </div>
+        </section>
+
+        <section class="troubleshooting">
+            <h2>Quick Troubleshooting</h2>
+
+            <h3>If Ztagger Won't Connect</h3>
+            <ul class="checklist">
+                <li>Check if powered on</li>
+                <li>Move closer to ZUES</li>
+                <li>Restart ztagger</li>
+            </ul>
+
+            <h3>If ZUES Won't Start</h3>
+            <ul class="checklist">
+                <li>Check power connection</li>
+                <li>Verify outlet has power</li>
+                <li>Press and hold power button</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Ready to Play?</h2>
+
+            <h3>Final Checklist</h3>
+            <ul class="checklist">
+                <li>ZUES powered on and running</li>
+                <li>All ztaggers responding</li>
+                <li>Play area clear</li>
+                <li>Power cables secured</li>
+                <li>Test game successful</li>
+            </ul>
+        </section>
+
+        <section class="next-steps">
+            <h2>Next Steps</h2>
+            <ul class="equipment-list">
+                <li><a href="link-to-game-modes">Learn about Game Modes</a></li>
+                <li><a href="link-to-large-events">Set up for Large Events</a></li>
+                <li><a href="link-to-safety">Review Safety Guidelines</a></li>
+            </ul>
+        </section>
+
+        <section class="support-info">
+            <h2>Need Help?</h2>
+            <ul class="equipment-list">
+                <li>Contact Support: <a href="mailto:support@ztag.com">support@ztag.com</a></li>
+                <li>Visit: <a href="link-to-support">Technical Support Page</a></li>
+                <li>Call: [Support Phone Number]</li>
+            </ul>
+        </section>
+
+        <div class="related-articles">
+            <h2>Related Articles</h2>
+            <ul class="equipment-list">
+                <li><a href="#">Equipment Checklist</a></li>
+                <li><a href="#">Safety Guidelines</a></li>
+                <li><a href="#">Game Mode Guide</a></li>
+                <li><a href="#">Troubleshooting Guide</a></li>
+            </ul>
+        </div>
+
+        <div class="tags">
+            <span class="tag">#setup</span>
+            <span class="tag">#quickstart</span>
+            <span class="tag">#beginner</span>
+            <span class="tag">#hardware</span>
+        </div>
+    </div>
+</body>
+</html>

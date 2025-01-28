@@ -1,0 +1,1176 @@
+OPERATIONS MANUAL
+
+INTRODUCTION TO ZTAG
+ZTAG is an energizing spin on traditional laser tag, swapping guns for smart game trackers known as ztaggers. Our system, nestled in a compact roll-on case, establishes a wireless network with 24 ztaggers, offering a playground of interactive games designed to stimulate social interaction and physical activity.
+Each ztagger, worn on the wrist, boasts a screen, speaker, vibration motor, and activity sensors for an immersive gaming experience. Quick to set up and play, games are short yet intense, requiring a good dose of physical effort.
+ZTAG is versatile, perfect for classroom settings or larger groups. For big events, the system can handle up to 100 players per hour by rotating 20 players every 10 minutes. Experience ZTAG – a dynamic fusion of technology and traditional play, designed to create unforgettable active fun.
+TABLE OF CONTENTS
+Equipment overview
+How to set the system up
+How to put the ztaggers on the players
+How to operate each different game mode
+How to operate a small event
+How to operate a large event with more players than ztaggers
+How to put away the system
+How to troubleshoot different problems which might occur during an event
+Tips, tricks, and techniques to get the most out of the system
+After reading this manual, should feel confident that you can operate a ZTAG event!
+The ZTAG system combines a central computer, the ZUES, and 24 dynamic ztaggers. Theyellow ZUES is equipped with a built-in touchscreen computer, a dedicated wireless router,and convenient charging slots for all 24 ztaggers. It's your one-stop hub for energetic, fun filled, and engaging ZTAG games!
+ZTAG UNIFIED ENTERTAINMENT SYSTEM (Z.U.E.S.)
+The ZUES consists of a central computer with a touch display. The computer utilizes a proprietary wireless network to communicate with all 24 ztaggers. Up to 48 ztaggers can be connected to a single ZUES! The ZUES is the size of an 18" roll-on suitcase and is easily portable on an airplane. The case weighs approximately 40 pounds when all the ztaggers are contained within it.
+The ZUES programs (sends instructions to) each wearable ztagger, informing it about the game mode to play, and it receives feedback and scores from each unit. At the time of this manual, there are six game modes:
+1. Red Light, Green Light
+2. Pattern Match
+3. Zombie Survival
+4. Rock, Paper, Scissors
+5. Math Match
+6. Keep Away
+
+Further details regarding the game modes will be covered later in the manual.
+ZTAG WEARABLE GAME TRACKERS (ZTAGGERS))
+Each ztagger fits into its charging bay, and the case serves as a central chargingdock for the entire setup. Each ztagger is equipped with its own screen, vibration
+motor, and speaker. Additionally, it includes a motion sensor (for games such as Red Light, Green Light), an infrared emitter, and a proximity detector (for games like Pattern Match and Zombie Survival).
+
+Since ZTAG is an active game, it is crucial that each player wears their ztagger properly and securely to prevent it from coming loose during gameplay. The
+band is designed to be one-size-fits-most, accommodating small kids to adult players. There are two ways to wear the ztaggers depending on the
+player's size. Typical wristband attachment: The most common method is to thread the hook end of the elastic band through the plastic buckle and then pull the hook side back over the loop side. Smaller wrist attachment: In the case of players with smaller arms, the wrist band may appear too long. You can adjust the band's length by folding over the excess hook end and attaching it to the logo end of the band. 
+
+Refer to the pictures below for
+visual guidance.
+Medium - Large Wrists
+Small Wrists
+SETTING UP ZUES
+Operating the ZUES is simple. There are two configurations for ZTAG: one with an external monitor and one without.BASIC SETUP CHECKLIST / CONFIGURATION
+In the basic configuration, it is recommended to have two six-foot folding tables. Additionally,
+we suggest obtaining branded ZTAG tablecloths to cover the tables (please send an email to
+support@ztag.com if you are interested in branded materials). It is also necessary to have a
+power source available. For games in remote areas, we recommend a minimum of a 300W
+power generator. To prevent tripping hazards, we advise using an extension cord with carpet
+cable covers.
+[ ] ZUES with ztaggers
+[ ] Extension Cord
+[ ] Two Six Foot Tables
+[ ] Two Branded Tablecloths
+ENVIRONMENT SETUP
+1.
+Set up the tables and position them within the range of the extension cord.
+2.
+Attach the tablecloths to give the tables a professional appearance.
+3.
+Place the ZUES on top of the first table.
+4.
+Use the second table for holding the ztaggers for distribution. Since the ztaggers
+will be frequently taken on and off, having them readily visible will make it easier
+to ensure all ztaggers are accounted for. Putting them in and out of the case takes
+longer and can slow down the setup process, as each time you remove a ztagger
+from the charging dock, it powers off and needs to be powered back on.
+ZUES SETUP
+1.
+Open the ZUES.
+2.
+Remove the wireless router.
+3.
+Attach the wireless router to the top of the screen case using the provided bracket.
+4.
+Ensure that both antennas are installed.
+5.
+Plug in the ZUES for power.
+6.
+Turn on the ZUES by flipping the red power switch, followed by pressing the blue
+button to power on the computer (if the blue button isn't already on). 7.
+Wait for the system to boot up. It will take approximately 3 minutes for the system
+to fully boot up. Note: Even if you see the screen on the ZUES displaying the
+boot-up process, you may still need to wait an additional minute for the wireless
+router to fully boot up.EXTERNAL MONITOR SETUP CHECKLIST
+/ CONFIGURATION
+[ ] ZUES with ztaggers
+[ ] Extension Cord
+[ ] Two Six Foot Tables
+[ ] Two Branded Tablecloths
+[ ] Flatpanel TV (we recommend Best Buy, TCL LCD)
+[ ] Tripod stand for TV
+[ ] Power Cord for TV
+[ ] HDMI cable for monitor to ZUES
+[ ] Surge suppressor so there are multiple plugs for ZUES and TV
+The steps for setting up the external monitor are identical, with the following
+exceptions:
+1.
+Set up the monitor and tripod stand while setting up the tables.
+2.
+Bring a power strip to ensure you have enough plugs for the ZUES and the
+monitor.
+3.
+Plug in and power on the monitor before powering on the ZUES.
+4.
+Plug the HDMI cord into the TV and the ZUES before powering on the ZUES.
+5.
+Plug in the ZUES and power it on.
+6.
+Wait for the system to boot up.
+7.
+The monitor should now mirror the touch screen inside the ZUES, making it easy
+for players to see their scores.
+You Are Ready To Deploy
+Once the system has been booted, you are ready to move on to
+the next step in the process, deploying the game ztaggers.ZTAG maintenance and cleaning instructions
+The ZTAG live action gaming system is designed to be easy to maintain and charge.
+
+
+CHARGING
+The ztaggers must be fully charged before an event. It takes approximately one hour to completely charge the ztaggers, providing about 3 hours of playtime. The ztaggers are
+charged by putting them into the ZUES while it is plugged in. The sidebar will illuminate red
+to indicate that the ztagger is being charged. When it is fully charged, the sidebar will light
+up green. Note that even a fully charged system may boot up showing red at the top of its
+charge before turning green again at the beginning of a power cycle of the ZUES. This is
+normal.
+IMPORTANT: It is important to note that the power cord connects inside the case, and the
+lid has a screen, making it heavy. Therefore, if you plan on charging the ztaggers while
+driving, you must be very cautious as the case may cause the power cord to cut or get
+damaged due to constant bouncing.
+ZTAG maintenance and cleaning
+IMPORTANT: Clean the ztaggers with a lint-free cloth, such as a microfiber cloth. Do not use
+solvents on them. Note: Before placing the ztaggers back into the charging dock, make sure
+there is no debris on the round charging knob. Debris can damage the charging pins of the
+dock
+IMPORTANT: When putting them into the case, please make sure that the bands are fully
+tucked in so that the clear plastic protective retainer lid can close completely and secure the
+units. This will keep the ztaggers in place and prevent them from damaging the touch screen.
+POWERING THE UNITS ON AND OFF
+IMPORTANT: The ztaggers turn on as soon as you plug them into the power source. However,
+as soon as they are removed from power, they switch off. This means that as soon as you remove a ztagger from its charging cradle, the unit will immediately power off and will need to be turned on manually.
+Why does this behavior occur?
+This behavior is designed so that when you unplug the ZUES command unit from the wall, all
+the units inside the case will automatically turn off. You won't have to switch them off manually one by one. This way, you can store the units, switch off the ZUES, and then close the case without worrying about units staying on and generating heat inside the closed case.
+
+When the units are fully charged they will turn green.
+ZTAG GAMES OVERVIEW
+ZTAG is currently shipped with 6 games.
+1.
+2. 3. 4. 5. 6.Red Light,
+Green Light*
+Pattern
+Match*
+Zombie
+Survival*
+Rock, Paper,
+Scissors
+Math Match
+Keep Away
+* The first 3 games should be played in the exact order sequence in order to teach new players
+all the skills they need to play ZTAG. Red Light, Green Light, Pattern Match, and Zombie
+Survival.
+
+Red Light, Green Light is exactly what it sounds like - that game from your childhood where
+you would move when the light turned green and freeze when it turned red.
+
+How the Game Is Played
+The system will randomly turn the player's ztagger screen green for "Move" and red for "Stop."
+Players earn points by moving around during the green portion of the game. If they move while
+their ztagger screen is red, they will be eliminated. The goal of the game is to score as many
+points as possible without getting eliminated.
+Lessons Learned
+ZTAG's version of Red Light, Green Light is interesting because the commands will be
+transmitted through their ztagger. The game aims to teach players to:
+1.
+Pay attention to the screen
+2.
+Listen for audio cues
+3.
+Recognize vibrations on their wrist
+Moreover, since the ztagger is the one issuing commands, players are not being bossed around
+by adults. The ztagger contains a motion sensor that awards points updated on the screen as
+they play. Additionally, the ztagger determines which players are eliminated, which should
+eliminate or at least drastically reduce cheating and solve the problem of putting an adult in
+the awkward position of arguing with players over whether they moved.
+Typically, a game should last 2 minutes.
+RED LIGHT GREEN LIGHT CONTINUED
+The Game Ends when:1. Time has expired, or
+2. Every player has been eliminated
+Tip: To help the players get the most out of the game, it's worth reminding them to pay
+attention to their tagger number. This is the number they need to look for on the screen to find
+their score.
+Other features: Since each player has their own ztagger, they don't have to start and stop at
+the same time. At the start of the game, all units turn red and green simultaneously, but as the
+game progresses, ZUES will randomly initiate different players at different times. This trains
+players to focus on their own ztagger rather than what other players are doing.
+PATTERN MATCH
+The next game in the sequence to play is Pattern Match. It is a novel game that only exists with
+ZTAG. Pattern Match advances the players' understanding of the ztagger by teaching them how
+to "tag" each other.
+PATTERN MATCH CONTINUED
+Each ztagger has an infrared sensor and a transmitter. For the ztaggers to "see" each other,
+they must align screen to screen. The range at which they can interact with each other varies
+depending on the environment. Indoors and at night time, ztaggers can "tag" from up to 3 feet
+away or more. Outdoors, in the direct sunlight, the distance may be as short as only a few
+inches, with ztaggers needing to be nearly on top of each other to record a match. This is
+because the direct sunlight affects the sensors of the ztaggers. Sunlight also makes the
+screens and LED lights more difficult to see. We generally recommend playing ZTAG in shaded
+areas or indoors to avoid direct sunlight.How the Game Is Played
+Each player's ztagger will light up with a random shape and color. In a standard game, there
+are four shapes and four colors. Players score points when they match a color, shape, or both.
+They lose points if they try to create a match where none exists. The goal of the game is to
+score as many points as possible in the given time.
+The points system is as follows:
+• +1 for a color match
+• +1 for a shape match
+• +5 for a color AND shape match
+• -1 for a mismatch
+Matches are made by bringing the ztagger screens close enough to each other for the units to
+register the match. Once a match (or mismatch) is recorded, the system assigns each ztagger
+a new random pattern and color, and the game continues. In case of a mismatch, the ztaggers
+are paused for a few seconds. The player's score cannot go below zero.
+The default shapes are:
+• Square
+• Triangle
+• Circle
+• Star
+The default colors are:
+• Blue
+• Red
+• Green
+• Yellow
+
+Zombie Survival is the most popular and sophisticated game out of the six. It combines all
+the previously acquired skills, including paying attention to the ztagger and tagging other
+players (or being tagged by them).
+
+How the Game Is Played
+The game starts by assigning two players as zombies and the rest as humans. The goal for the
+zombies is to convert all the humans into zombies by tagging them. The goal of the humans
+is to survive the zombie horde within the given time. The zombies are identified by a red
+screen, while the humans have a green screen.
+This game, more than any other, requires a lot of running.
+The game duration is 3 minutes.
+
+Special Rules
+Rule 1: Avoid physical contact as much as possible. Players should not touch each other,
+even though it can be difficult to maintain distance during daylight when the tagging
+distance is very short (only a few inches). However, we aim to reduce players bumping and
+running into each other.
+Rule 2: Do not cover the screen while playing Zombie Survival. Ztaggers need to remain
+uncovered.
+Rule 3: Establish a boundary for the game, and a smaller space is often better to encourage
+more interaction.
+ZOMBIE SURVIVAL CONTINUED
+Player Scores
+The game keeps track of the number of players a zombie converts and the number of times a human has been converted. Only the zombie score matters in this game because there is no
+way for humans to be "cured" of being a zombie.
+END OF GAME
+The game ends when time runs out or all humans are converted into zombies. Zombies win
+when all humans become zombies. Humans win if at least one human remains when the clock
+runs out.
+Other features: Since this game is centered around "competitive" tagging (as opposed to
+cooperative tagging in Pattern Match), players generally try to avoid each other instead of
+attempting to locate each other. As a result, there is a lot of running involved. To minimize the
+risk of slip and fall injuries, players should refrain from making physical contact or tagging each
+other.
+This aspect also presents a significant challenge for coaches since players may try to "cover"
+their tagger, which is a tactic that should be discouraged. Coaches should advise players to
+defend themselves by being elusive, utilizing spin moves, and avoiding blocking the ztagger.
+ZOMBIE SURVIVAL WITH DOCTOR
+This game adds a twist to Zombie Survival by introducing a doctor who can save humans in
+the process of turning into zombies. Newly infected humans have 10 seconds to find the doctor
+before they become zombies permanently.
+ZOMBIE SURVIVAL WITH DOCTOR CONTINUED
+How the Game Is Played
+The game starts the same way as regular Zombie Survival, except that one player is chosen as
+the doctor. We highly recommend manually selecting the doctor (the reasons for this are
+explained below). Then, the game begins with a 3-minute timer.
+Note: The doctor cannot be turned into a zombie!END OF GAME
+The game ends when all humans have been turned into zombies, or when the time runs out
+and at least one human remains. Zombies win when every human is transformed into a
+zombie. Humans win if at least one human survives until the time expires.
+Special Rules
+The doctor's role significantly extends the game time and increases the chances of the human
+team winning. However, one thing to be careful of with the doctor is that players can "rush"
+them. Therefore, it might be better to select a player who is less likely to feel overwhelmed by
+having kids rushing at them.
+Note: There is value in assigning the doctor to a specific player with unique needs who would
+benefit from being put in a social situation. The doctor's role is aspirational, and other players
+come to them for help. It can help normalize a child to group dynamics to be put in this role in
+the game.
+Other than that, the same rules apply:
+1. No covering the screen.
+2. No physical contact.
+3. Camping the Doctor is not allowed. There is a "grace period" after a player has been cured by
+the doctor during which they cannot be converted into a Zombie, to give them time to get
+away from the Doctor.
+4. No crowding the Doctor. We want the cured players to get away from the doctor as quickly
+as possible after being cured.
+Player Scores
+The game keeps track of how many humans a zombie converts, how many times a human has
+been transformed, and how many people the doctor has cured. It is up to the coach and the
+players to determine which scores, if any, are meaningful.
+ROCK, PAPER, SCISSORS
+How the Game Is Played
+This game is circular tag. Rock tags scissors and converts it to rock. Paper tags rock and
+converts it to paper. Scissors tags paper and converts it to scissors. When rock and scissors
+meet, rock beats scissors and converts them into rock.
+The easiest way to explain the rules to players is that one team runs away from the other team
+while the other team chases them. If your color gets converted when you are tagged, you then
+chase everyone on your previous team.
+When the game starts, players seek each other out and determine which color beats the other
+color. After understanding which color beats which, the players will understand who is chasing whom.
+
+END OF GAME
+The game ends when only one team remains on the field. The team that eliminates both other
+teams wins!
+This game is especially fun for younger kids who aren't so caught up in scoring. When the
+game ends, all players will be of the same color and announcing the winning team essentially
+leads to all players cheering because they are on the winning team.
+MATH MATCHMath Match is a game in which players have arithmetic problems on their ztaggers and must
+find and pair them with other ztaggers that have the correct answers throughout the room.
+For example, a player may have "5 + 2" displayed on their ztagger and must seek out a device
+around the room that displays "7" and match their question ztagger screen to screen with the
+answer ztagger.
+
+How the Game Is Played
+During player selection, all active devices are initially displayed on the left side of the screen.
+The operator must select which ztaggers will be challenged with arithmetic problems by
+moving them to the right side of the screen. All remaining ztaggers on the left side of the
+screen (unassigned) will display answers to the arithmetic problems given to the players.
+When the game starts, assigned players will display various arithmetic problems on their
+ztaggers. They must search the room for a matching ztagger with the correct answer.
+It is essential to scatter the unassigned ztaggers around different parts of the room so their
+signals do not interfere with each other.
+It is also essential for players to cover their ztaggers before they make a match with an answer
+to prevent accidentally firing their signals to an unintended answer ztagger.
+Note: The difficulty of the arithmetic problems can be adjusted in the game settings by
+clicking the gear icon within the Math Match player assignment screen. One can enable
+various arithmetic operators and set the range of numbers to be used in the game.
+MATH MATCH CONTINUEDKEEP AWAY
+Keep Away is essentially reverse tag. Rather than the “it” player chasing everyone else,
+everyone else is chasing the “it” player in order to become “it.”
+How the Game Is Played
+Keep Away is a very active game where a random player is initially selected to have
+possession of a virtual ball. All other players will try to chase down this player to take
+control of the virtual ball. The longer a player with possession of the virtual ball can
+keep from being tagged by other players, the more points this player will receive. At
+the end of the game, the player with the longest possession of the virtual ball wins.Since Keep Away is a highly active game, it is recommended to only play in an area
+where players can actively run without the risk of tripping or falling. Playing this game
+indoors or at night (without direct sunlight) is also recommended, as tagging is easier.
+If the game is played in daylight, the range of the tagging signal is reduced, which
+may lead to aggressive behavior among the players.
+KEEP AWAY CONTINUED
+CLOSING THE UNIT
+After playing ZTAG, make sure that each ztagger is firmly seated in its charging dock. The
+wristbands should be tucked behind them so that the clear plastic cover can be closed
+properly.The power cable must be inserted into the gaps between the ztaggers and the case, as shown
+in the image below.
+The checklist is as follows:
+The router is stored in the slot below the touch screen.
+All router cables and bracket cables are stored below the touch screen.
+All ztaggers are firmly seated in their docks, with the wrist straps tucked behind them so
+that the clear case lid can be closed properly.
+The power cord is unplugged and tucked into the gaps between the case and ztaggers.
+Ensure that nothing is poking or touching the touch screen.
+Once you have completed the checklist, you can close the case.
+TROUBLESHOOTING
+There are a few things that can go wrong, and here is how to fix them:
+Problem:
+The ZUES cannot see any ztaggers to add to the game.
+Solution:
+First, check to make sure an active ztagger is displaying signal bars next to its battery indicator
+in the upper right corner of the screen. If there are no signal bars indicated, make sure the
+white router is plugged in (there are 2 Ethernet jacks on the router, the correct one is the one
+labeled as WAN, which is the LEFT port when the router's back is facing you). Once the routeris plugged in correctly, power cycle the entire system (Red Switch on the ZUES) and wait for 3
+minutes.
+Problem:
+Two (or more) ztaggers have the same ID number.
+Solution:
+From the main screen, reset all the wireless devices in the settings (the gear). This will cause
+the ZUES to renumber/resequence all the units.
+Problem:
+The HDMI output is not displaying correctly on an external monitor.
+Solution:
+Make sure the HDMI cable is connected to the ZUES prior to turning on the ZUES. If this still
+does not work, email support@ztag.com.
+Problem:
+Ztagger is not shutting down when the power button is pressed.
+Solution:
+You must double-click the red power button to shut down the ztagger.
+Problem:
+It's too hard to tag someone.
+Solution:
+Make sure you are not playing in direct sunlight as that reduces tagging distance and visibility
+of the ztagger screens. We recommend indoor or nighttime use for the optimal game
+experience. Also, recommend that players who are tagging communicate and team up to
+surround a single player they are tagging.
+ZUES PORTS
+The ZUES has several ports.
+A: The USB ports. The wireless keyboard
+dongle goes into Port A.
+B: The HDMI cable plugs into this port.
+C: The SD Card Port - DO NOT REMOVE
+THE SD CARD! This is the "hard drive" for
+the
+ZUES. Removing it will cause the system
+to stop working.D: The onboard computer power button.
+E: The master power switch.
+F: The Master Power Cable Plug.
+TIPS FOR RUNNING SMALL EVENTS
+ZTAG is a physically demanding game that can tire out players in just 10 minutes, making it
+challenging to fill an hour with playtime, especially if groups need to rotate. However, there are
+some tips and strategies that can help players rest between rounds and get more gameplay,
+while still filling the hour. These tips assume that more players need to rotate.
+1. Adding an external screen creates a natural break after each round, allowing players to check
+their scores.
+2. Stick to the Red Light, Green Light, Pattern Match, Zombie Tag game sequence. 3.
+Let players play each game twice as you go through the sequence for the first time.
+4. After the first round, reinforce to the players the importance of finding out their ztagger
+number and ensure that every player knows who every other player is.
+5. After Pattern Match, challenge the players as a group to spend a few minutes thinking about
+how they can improve their performance. Give them time to reflect, discuss, and plan for the
+next round. It is okay to let them play this game 2-3 more times to try different ways of
+optimizing their scores.
+6. For younger kids, simplify the number of colors and shapes in the Pattern Match game, and
+add more complexity in later rounds by changing the settings.
+7. Adding a Doctor to Zombie Survival slows down the game.
+8. Play Rock, Paper, Scissors as a filler game between Zombie rounds. This swarm-like tagging
+game is fun, no players are eliminated, and (nearly) everyone winds up on the winning team.
+9. Allow players to take water breaks.
+By using these techniques, it is possible to entertain 20 or fewer kids for 60 minutes.
+TIPS FOR RUNNING LARGE EVENTS
+The biggest issue with working with groups of over 24 is rotating players in and out. It takes
+time to remove ztaggers from one group and place them in the next group.
+1.
+Break groups into 20 (saving four ztaggers just in case). This will leave you three minutes toswitch players, giving you about 20 players every 10 minutes.
+2. Run groups through:
+2 minutes of Red-Light Green-Light
+2 minutes of Pattern Match
+3 minutes of Zombie Tag
+3. If you are part of a larger event with more attractions, we recommend that each rotation
+through the line is 10 minutes, where you constantly pull players out of line and get them into
+the game as a group.
+4. If the players are brought in a group - guided (by a teacher or counselor), we recommend
+20 minutes per group, running through:
+Red Light Green Light once
+Pattern Match twice
+Zombie Tag - no doctor
+Zombie Tag - with doctor
+Rock, Paper, Scissors (or back to Zombie tag)
+5. It is best to get the kids lined up and ready to have ztaggers put on their wrists.
+6. It is best to have a second table with a tablecloth for players leaving the game to put the
+ztagger on when they go.
+7. Keep all the players in a line until everyone has a ztagger (to keep things organized). 8.
+Bring all the kids as one into a circle at the same time to explain the rules of the game. 9.
+After each game, bring the players back into a circle and explain the next set of rules.
+VIDEO LESSONS
+The Ztagger: Running Red-Light Green-Light:
+ZTAG running pattern match: Running Zombie Survival Tag - No Doctor:Running Zombie Survival Tag - With Doctor: How to Add New Players to Games:
+Powering Down the Unit:
+ZTAG Game - Rock Paper Scissors:
+Fix Duplicate Ztagger Numbers: Finding Lost Ztaggers:
+–
+
+Healthy Habits, Bright Minds: Introducing ZTAG
+Looking for a fun and engaging way to get kids excited about learning while also promoting physical activity and teamwork? Look no further than ZTAG! Our innovative game system, "Healthy Habits, Bright Minds," brings together active collaboration, learning, STEAM, Fun, and creative youth development for a truly unique experience. With ZTAG, kids will be having so much fun they won't even realize they're also developing crucial skills in problem-solving, creativity, critical thinking, and communication. So why not let your kids learn and grow with ZTAG? It's the perfect way to foster healthy habits and bright minds for the next generation!
+Fun Activities
+Making things fun is the best way to learn.
+When students enjoy what they do, they are more motivated to succeed.
+Engaging and Interactive
+Face-to-face interactions are important for students' social skills because it help them develop the confidence to interact with people, and give them the opportunity to practice their communication skills.
+
+Educational Games
+We believe that every student has the right to grow and reach their fullest potential. We provide an active learning device for students where they can grow, explore, and develop skills that will help them in the future.
+ 
+ZTAG'S INTERACTIVE AND ENGAGING ACTIVITIES
+ Red Light Green Light
+Get ready for a game like no other! In this game, you'll have to rely on your instincts and lightning-fast reflexes to score points and avoid elimination. So what are you waiting for? Get moving and let the fun begin!
+ Zombie Survival
+Can you find all ingredients to the antidote and be the last  to  survive? This  is  a  high-energy  scavenger  hunt that can even be played!
+ Pattern Match
+Get ready to put your memory and pattern recognition skills to the test with Pattern Match! With a time limit in place,  it's  all  about  being  quick  on  your   feet  and spotting those  patterns  before time  runs  out.  So,  are you  ready  to  rise  to  the  challenge  and  become  the ultimate pattern match master? Let the games begin!
+  Math Match
+Get  ready for a game that will exercise  not just your body, but your mind too! With Math Match, you'll get to engage  in  physical  activity  while  having  a  blast  and developing critical thinking and collaboration skills. This unique game challenges players to solve math equations and work together to achieve a common goal. It's a fun way to build core math competencies while also getting some  exercise  and  improving  teamwork  skills.  So  if you're looking for a fresh and exciting way to develop your mind and body, Math Match is the perfect game for you!
+
+ZTAG SYSTEM & FEATURES
+ ZTAG is perfect for any location and any season. Play indoors during the winter and outdoors during the summer.
+ZTAG games can be played in an small, open space such as a basketball court, a park, or a dedicated arena.
+Cater to players of all abilities through role assignments.
+●  Assigning shy players a hero role boosts confidence and engagement.
+Allow kids to be kids in a safe and well-defined game environment.
+Encourage communication and teamwork through roleplay and strategy.
+ Z.U.E.S
+Command Center
+The ZTAG Unified Entertainment System stores, selects, and operates the game for 24 players. One-button-start allows anyone to operate ZTAG with ease.
+Wearable Active Gaming Device
+Gunless  wearable  tagger  allows  players  to  actively move and interact with each other by proximity.
+–
+ ZUES FAQ
+Question
+What happens when I click the "CONTINUE"
+button on the Welcome screen?
+Answer
+Clicking the "CONTINUE " button will:
+· Initiates the ZUES onboarding process including registration and WiFi setup.
+· 	Enable cloud communication, firmware updates, and Game analytics.
+Question
+What happens when I click the "Skip for now"
+button on the Welcome screen? (Not recommended)
+Answer
+Clicking the "Skip for now" button will:
+· Take you to the games screen.
+
+ · Skips cloud registration and WiFi connection. Disables the latest firmware updates and Game analytics.
+Question
+Unable to connect WiFi on ZUES
+Answer
+If you're unable to connect WiFi on ZUES, try the following steps:
+· Double-check that the WiFi password is correct. You can enable the "show password" option to verify it.
+· Alternatively, attempt to connect with another WiFi network or use a mobile hotspot.
+· Ensure that the WiFi band is set to 2.4GHz
+· For more detailed instructions, please refer to the WiFi connection manual provided with the ZUES system.
+
+ Question
+What is the recommended password for the ZUES account?
+Answer
+The recommended password for the ZUES account should:
+· Be a combination of alphanumeric characters (letters and numbers).
+· Include both lowercase and uppercase letters.
+Question
+The verification code was not received via email during the new account Sign-Up
+process.
+Answer
+If you haven't received the verification code via email during the new account Sign-Up
+process, follow these steps:
+· Allow some time for the verification code to arrive; there might be a slight delay.
+· Check your spam folder as the email might have been filtered there.
+· Ensure that your ZUES is connected to WiFi.
+· If the verification code is still not received, kindly use the option to resend the email.
+Question
+Encounter an error stating "Verification code invalid" during the Sign-Up process.
+Answer
+· Double-check that the entered code is correct.
+Question
+Encounter an error stating "something went wrong” during the Sign-In process.
+Answer
+If you encounter an error stating "something went wrong” during the Sign-In process, try the following steps:
+· This issue might be due to your Internet Service Provider (ISP) blocking the access to the cloud.
+· Try connecting to an alternative WiFi network or use a mobile hotspot.
+Question
+Did not receive the code via email when using the "Forgot Password" option.
+Answer
+If you did not receive the code via email when using the "Forgot Password" option, please:
+· Ensure that your ZUES device is connected to the WiFi network
+
+ 
+· Double-check the email address you entered to ensure it is correct.
+· Check your spam folder
+Question
+Why I cannot see the Firmwares in the Firmware Tab on ZUES
+Answer
+If you cannot see the Firmwares in the Firmware Tab on ZUES, please:
+· Ensure that your ZUES is connected to the WiFi network.
+· Verify that you are signed in with your ZUES account.
+Question
+I cannot see the latest Firmware in the Firmware Tab on ZUES
+
+ Answer
+If you cannot see the latest Firmware in the Firmware Tab on ZUES, please:
+· Ensure that your ZUES is connected to the WiFi network.
+· Sign-In with your ZUES account.
+Question
+What is the use of Clear All Downloads
+button in ZUES firmware tab.
+Answer
+The "Clear All Downloads" button in ZUES firmware tab is used to:
+· Remove all previously downloaded Firmwares from ZUES.
+· This step is recommended before downloading a new Firmware to avoid any conflicts or issues.
+
+  
+Question
+What is the purpose of Games option in ZUES
+Answer
+The Games option in ZUES allows you to:
+· Display or hide games on the main screen.
+· You can use this option to customize the appearance of the main screen by
+showing or hiding games according to your preference.
+–
+ZTAGGERS FAQ
+ Question
+Duplicate names appear on Ztaggers
+Answer
+If duplicate names appear on Ztaggers, follow these steps to resolve the issue:
+· Go to the Devices tab in ZUES.
+· Click on the Reset Devices button to re- assign all the devices on ZUES.
+· If the issue still persists, reboot the Ztagger.
+· After the WiFi icon appears on the
+Ztagger, click on the Reset Devices button again.
+Question
+Ztagger not appearing on the ZUES Device’s Tab. 
+Answer
+If the Ztagger is not appearing on the ZUES Device’s Tab, follow these steps to
+troubleshoot the issue:
+· Ensure the Ztagger is powered on or in charging mode, and the WiFi icon appears on the Ztagger.
+· Click on the Reset Devices button on ZUES.
+· If the issue persists, reboot the Ztagger.
+· After the WiFi icon appears on the Ztagger following the reboot, click on the Reset
+Devices button on ZUES again.
+· If the problem continues, try rebooting the ZUES system.
+Question
+OTA message not received on all the Ztaggers.
+ 
+Answer:
+If OTA messages are not received on all the Ztaggers, follow these steps to troubleshoot and update individual Ztaggers:
+· Ensure all Ztaggers are powered ON and have at least two cells in the battery or are in charging mode.
+· Confirm that the WiFi icon appears on all the Ztaggers.
+ 
+If OTA fails for a specific Ztagger, you can update it manually by following these steps:
+· Reset the Ztagger.
+· Verify that the WiFi symbol is visible on Ztagger.
+· Go to the Device Tab on ZUES.
+· Click on the relevant Ztagger.
+· Select the firmware from the drop-down list.
+· Click on "Push Firmware" to initiate the manual update process.
+ 
+Question
+OTA not successful on each Ztagger
+Answer
+If OTA is not successful on each Ztagger, follow these steps to troubleshoot and update
+individual Ztaggers:
+· Ensure all Ztaggers are powered ON and have at least two cells in the battery or are in charging mode.
+· Verify that the WiFi icon is visible on all Ztaggers, indicating a stable internet connection.
+If OTA fails for a specific Ztagger, you can update it manually by following these steps:
+· Go to the Device Tab on ZUES.
+· Click on the relevant Ztagger.
+· Select the firmware from the drop-down list.
+· Click on "Push Firmware" to initiate the manual update process.
+Question
+OTA started on more Ztaggers but completed on less Ztaggers.
+Answer
+If OTA is started on more Ztaggers but
+completed on fewer Ztaggers, consider the following:
+· The OTA process might have completed successfully, but the update status is not updated properly on ZUES.
+· Visually confirm the relevant firmware number displayed on the Ztaggers to ensure that they have been updated with the new firmware.
+
+ 
+What is the purpose of Find Me feature on ZUES
+Answer
+The "Find me" feature on ZUES is used to:
+· Locate all Ztaggers associated with the system.
+· To use this feature, the user needs to click on the "Find Me" icon on the main screen.
+How to locate an individual Ztagger using Find Me feature.
+Answer
+To locate an individual Ztagger using the “Find Me” feature, follow these steps:
+· Go to the Device Tab on ZUES.
+· Click on the relevant Ztagger that you want to locate.
+· Click on the "Find Me" button associated with that specific Ztagger.
+· The Ztagger will emit a beeping sound to help you locate it.
+· Once you have found the Ztagger, you can stop the beeping sound by pressing the
+first button on the Ztagger.
+Question
+Ztaggers not beeping when clicking on "Find me" button on ZUES.
+Answer
+If the Ztaggers are not beeping when clicking on the "Find me" button on ZUES, follow
+these steps to troubleshoot the issue:
+· Verify that the WiFi symbol is visible on all Ztaggers.
+· Ensure that all Ztaggers are powered on and not in charging mode.
+–
+
+
+
+Introduction to ZTAG
+ZTAG is a fun, physical, social form of laser tag that uses gaming trackers instead
+of "guns" or "zTaggers". The product has been engineered to create social interaction
+among players using a variety of games.
+The system consists of a small roll-on case with the central computer that
+communicates with 24 wearable game trackers using a proprietary wireless
+interface. Each player gets their own wearable game tracker. Each tracker has a
+screen, speaker, and a rechargeable battery.
+The system takes minutes to set up, and games last only a few minutes. However,
+the physical activity required to play the game is demanding. This turns out to be
+ideal for large groups, as it is possible to run up to 100 people an hour through the
+experience, by rotating 20 players at a time in roughly 10-minute intervals.
+This manual will cover:
+1. Equipment Overview
+2. How to set the system up
+3. How to put the trackers on the players
+4. How to operate each different game mode.
+5. How to operate a large event with more players than zTaggers.
+6. How to operate a small event.
+7. How to put away the system
+8. How to trouble shoot different problems which might occur during an
+event9. Tips, Tricks, and Techniques to get the most out of the system
+After using this manual, you should feel confident that you can operate a ZTAG
+event for your customers. ZTAG What is it?
+Video - showing people playing with the system.Equipment Overview
+ZTAG Equipment Overview
+Taken as a bundle, the system consists of a command case and 24 individual tagging
+units. The yellow command case includes a built-in touch screen computer, wireless
+router, and charging slots for 24 "zTaggers".
+ZTAG Command Center
+The command system consists of an embedded computer with a touch screen. The
+computer uses a proprietary wireless network to talk to all 24 zTaggers. Up to 140 zTaggers
+can be connected to a single command case! The command center is the size of an 18"
+roll on suitcase and can be carried on an airplane. The case weighs about 40 pounds
+when all the zTaggers are inside. Rolled is easily manageable by a single adult staff
+member.The Command Center programs (sends instructions to) each wearable tracker, telling it
+what game mode to play, and it receives feedback and scores from each of the units. At
+the time of this manual, there are four game modes:
+1. Red Light, Green Light
+2. Pattern Match
+3. Zombie Survival
+4. Rock, Paper, Scissors.
+More about the game modes will be covered later in the manual.
+ZTAG Weable Game Trackers (zTaggers)
+Each zTagger fits into its own charging bay and the case acts as a master charging dock
+for the entire setup. Each tracker comes outfitted with its own screen, vibration motor,
+and speaker. It also includes a motion sensor, an infrared emitter, and detector. Setting up the ZTAG System
+The ZTAG system is easy to operate. There are two basic configurations of ZTAG,
+with and without an external monitor.
+The Basic Configuration
+In the basic configuration two six-foot folding tables are recommended. We also
+recommend getting green Spandex fitted tablecloths to cover the tables (available
+on Amazon). You will also need a source of power. An extension cord with carpet
+cable covers to prevent tripping are also recommended.
+Setup
+1. Set up the tables and locate them in reach of the extension cord.
+2. Add the table clothes to give the tables a professional look.
+3. Set the ZTAG Command case on top of the first table. This will be the
+command center.
+4. The second table is for holding the game trackers as they will be taken on
+and off quite a bit, and you want to make it easy to see if you have all the
+zTaggers. (Putting them in and out of the case takes longer and can slow
+down setup because putting them into the case turns them off.)
+5. Open the ZTAG Command Case6. Remove the wireless hub
+7.
+Attach the wireless hub to the top of the screen case using the enclosed
+bracket.
+8.
+Make sure both antennas are pointing up.
+9.
+Plug in the command case to power.
+10. Turn on the command base.
+11.
+Wait for the system to boot up.
+External Monitor Setup
+The steps for setting up are identical with the follow exceptions:
+1.
+Setup the monitor and tripod stand while you set up the tables.
+2.
+Bring a Surge Suppressor to make sure you have enough plugs for the
+Command Case AND the monitor.
+3.
+Plug in and power on the monitor BEFORE the Command Case
+4.
+Plug the HTML cord into the TV and the Command Case before powering
+on the Command Case
+5.
+Plug in the Command Case
+6.
+Power on the Command Case
+7.
+Wait for the System to boot up.8. The Monitor should now mirror the touch screen inside the command
+case, making it easy for players to see their score.
+You Are Ready To Deploy
+Once the system has booted, you are ready to move onto the next step in the
+process, deploying the game trackers.
+Basic Setup Checklist
+[ ] ZTAG System with zTaggers
+[ ] Extension Cord
+[ ] Two Six Foot Tables
+[ ] Two Green Spandex Tablecloths
+External Monitor Checklist
+[ ] ZTAG System with zTaggers
+[ ] Extension Cord
+[ ] Two Six Foot Tables[ ] Two Green Spandex Tablecloths
+[ ] Flat panel TV (we recommend Best Buy TCL LCD)
+[ ] Tripod stand for TV
+[ ] Power cord for TV
+[ ] HDMI cable for monitor to Command Case
+[ ] Surge suppressor so there are multiple plugs for command case and TV.ZTAG Maintenance and cleaning
+instructions
+The ZTAG live action gaming system is designed to be easy to maintain and charge.
+Charging
+It is important that the ZTAG zTaggers be fully charged before an event.
+It takes approximately one hour to completely charge the zTaggers for about 3
+hours of play time. The zTaggers are charged by putting them into the case while the
+case is plugged in.IMPORTANT: The power cord connects inside the case, and the lid has a screen
+in it making it heavy. You will want to be VERY CAUTIOUS if you think of charging
+the zTaggers WHILE DRIVING because the case could cut or damage the power cord
+if it bounces up and down.
+Each zTagger has its own slot inside the case. You want to make sure the zTaggers are
+dry and free of debris before putting them back into their slots. If the case is
+plugged in they will switch off, then immediately begin to charge - showing their
+current charging level on the screen.
+Clean the zTaggers with a lint free cloth, such as a microfiber cloth, do not use
+solvents on them.
+When putting them into the case, make sure the bands are tucked into the case so
+that that the clear plastic protective retainer lid can close completely and secure
+the units in the case for travel. (This keeps the zTaggers in place but also keeps them
+from damaging the touch screen.)The zTaggers will turn green when fully charged.
+Powering the Units On and Off
+Note, the ZTAG units turn on as soon as you plug them into power, however, they
+as soon as they are removed from power - they switch off. This means as soon as
+you remove a ZTAG unit from its charging cradle, the unit will immediately power
+off and will need to be turned on by hand.
+Why this behavior?
+That way, when you unplug the Zeus command unit from the wall, all the units
+INSIDE the case will automatically turn off. You won't have to switch them off by
+hand one at a time. This way you can store the units. Switch off the Zeus and then
+close the case. You will not have to worry about units staying on and generating
+heat inside the closed case.When the units are fully charged they will turn green.ZTAG Games Overview
+There are four total games we currently recommend for use with ZTAG. Even
+though the startup screen shows a total of 6, two games are still in development
+and are not documented.
+Three of the games go together in a specific order to teach players how to respond
+to the Wearable Gaming Trackers. Throughout the manual these are referred to as
+WGTs, Trackers, or zTaggers. The core games are:
+1.
+Red Light Green Light
+2. Pattern Match
+3.
+Zombie Survival Tag
+The fourth game is Rock Paper Scissors.Red Light Green LightRed-Light / Green-Light is what it sounds like, that game from your childhood
+where you move when the light is green, and freeze when it's red.
+How the Game Is Played
+The system will randomly turn the players WGT screen Green for move, and Red
+for Stop. Players earn points by moving around during the Green portion of the
+game. If they move while their WGT screen is red, they will be eliminated. The goal
+of the game is to score as many points as possible without being eliminated.
+Lessons Learned
+What makes ZTAG's version of Red-Light, Green-Light interesting is that the
+commands will come through their WGT. We want the players to learn to:
+1.
+Pay attention to the screen
+2.
+Listen for the audio cues
+3.
+Feel the vibration on their wrist.
+What's more, because it is the WGT issuing the commands, they are not being
+"bossed around" by some adult. The WGT contains the motion sensor that will give
+them points, which are updated on the screen as they play. What is more, it is the WGT which declares players eliminated. This should eliminate (or at least
+DRASTICALLY REDUCE) cheating, and solves the problem of putting an adult in
+the awkward position of arguing with players whether or not they moved.
+The typical game should last 2 minutes.
+Game End
+The Game Ends when:
+1.
+Time has expired, or
+2.
+Every player has been eliminated
+Tip: To help the players get the most of the game, it is worth telling them to pay
+attention to their zTagger number. It is through the zTagger number they will be able
+to find their score on the screen.
+Other features
+Because each player has their own WGT, they do not have to start and stop at the
+same time. In the beginning of the game, all the units will turn Red and Green at the same time, but as the game progresses, the Command Case will randomly start
+different players at different times. This trains the players to pay attention to their
+tracker, and not what the other players are doing.
+Pattern Match
+The next game in the sequence to play is Pattern Match. Pattern Match is a novel
+game that only exists with ZTag. Pattern match advances the players
+understanding of the WGT because it teaches them how the trackers "tag" each
+other.
+Each WGT has a sensor (camera), and a transmitter (infrared led projector). For
+the trackers to "see" each other, they must align face to face - or screen to screen.
+The range they can interact with each other varies by the environment. Indoors,
+trackers can "tag" from up to 3 feet away. Out of doors in broad daylight, the distance may be as short as a few inches, with zTaggers needing to be nearly on top
+of each other to record a match.
+How the Game Is Played
+Each player's zTagger will light up with a random shape and color. In a standard
+game there are 5 shapes and 5 colors. Players score points when they match either
+a color, a shape, or both. They lose points if they try to create a match where there
+is none. The goal of the game is to score as many points as possible in the time
+available.
+The points are:
+•
++1 for a color match
+•
++1 for a shape match
+•
++3 for a color AND shape match
+• -1 for a mismatch
+Matches are made by placing the WGT face to face close enough for the units to
+record the match. As soon as a match (or mismatch) is recorded, the system assigns
+each zTagger a new random pattern and color and the game begins again. If there is a mismatch, the zTaggers are paused for a few seconds. The player'sscore
+cannot go below zero.
+The Default Shapes are:
+•
+Square
+•
+Diamond
+•
+Circle
+•
+Star
+The Default Colors are:
+•
+Blue
+•
+Red
+•
+Green
+•
+Yellow
+Lessons Learned
+We want the players to do two things. First, interact. The first game was entirely
+solo, with their focus on the WGT. In this game, we want the players to pay
+attention to the WGT but find their potential match. Players most often do this by shouting out their shape and color then running around and finding their
+counterpart.
+Game End
+The game ends when time expires. The player with the highest score wins. As with
+Red Light / Green Light, players should pay attention to the number assigned to
+their zTagger at the beginning of the game so they can find their score on the results
+screen.
+A Standard Game is 3 Minutes.
+Other Features
+You can increase the number of shapes and colors in the settings menu.
+Zombie SurvivalZombie Survival is the most popular and sophisticated of the three games. Zombie
+tag combines all the previous skills, paying attention to the tracker and tagging
+other people (or being tagged by other people)
+How the Game is Played
+The game starts by assigning two players as zombies, and the rest as humans. The
+goal for the zombies is to convert all the humans into zombies. The goal of the
+humans is to survive the zombie horde. Zombies are identified by a red Screen.
+Humans have a Green Screen.
+This game, more than any other, involves a lot of running.
+The game duration is 3 minutes.Special Rules
+This game has special rules to prevent "cheating".
+• Rule 1: No covering the screen. Game Trackers need to remain
+uncovered.
+•Rule 2: No physical contact. To the degree possible, players should not
+touch each other - this can be a challenge, especially during daylight
+where tagging distance can be very short (a few inches), but we want to
+minimize players bumping and running into each other.
+Player Scores
+The game keeps track of how many players a zombie converts, and how many times
+a human has been converted. Obviously, only the zombie score makes sense in this
+game because there is no chance for the humans to be "cured" of being a zombie.
+Game EndThe game ends when either time expires, or all the humans are converted into
+zombies. Zombies win, when all the humans are zombies. Humans win if ONE
+human remains when the clock runs out.
+Other Features
+Because this game involves "competitive" tagging (as opposed to cooperative
+tagging in Pattern Match), players are usually running away from each other as
+opposed to trying to find each other. This leads to lots of running. To minimize the
+chance of a slip and fall, it is important that players do not make contact or
+physically tag each other.
+This also creates the biggest challenge for the coach because players will try to
+"cover" their zTagger which is a move we want to discourage. Coaches instruct
+players they can defend themselves by being evasive not from blocking the tracker.
+Zombie Survival with DoctorThis game adds a wrinkle to the Zombie Game by adding a doctor. The Doctor can
+"cure" humans who are in the process of becoming Zombies. Newly infected
+humans have 10 seconds to find the doctor before they irreversibly become a
+zombie.
+How the Game is Played
+The game starts in much the same way as regular Zombies with ONE exception,
+one player will be picked as the Doctor. We highly recommend that you manually
+select the doctor (reasons for this will be given below). Then you start the game
+with a 3–4-minute timer.
+Note: The doctor cannot be converted into a Zombie!
+Game EndThe game ends when all the humans have been converted, or the time runs out and
+at least one human is left when the time runs out. Zombies win when every human
+is converted into a Zombie. Humans win if at least one Human can survive until
+time expires.
+Special Rules
+The role of the doctor significantly extends the time of the game and increases the
+chances of the human winning. One of the things to be careful of with the Doctor
+is that players can "rush" the doctor. You might want to select a player who is less
+likely to feel overwhelmed by having kids rushing at them.
+Note: There is value in assigning the doctor to a specific, special needs player who
+would benefit from being put in a social situation. The doctor role is an
+aspirational one, where other players come to them for help. It can help normalize
+a child to group dynamics to be put in this this role in the game.
+Other than that, the same rules apply:
+1.No covering the screen
+2.
+No physical contact3.
+Camping the Doctor - There is a "grace period" after a player has been
+cured by the doctor when they cannot be converted into a Zombie to give
+them time to get away from the Doctor
+4.No Crowding the Doctor - We want the cured players to get away from
+the doctor as quickly as possible after being cured.
+Player Scores
+The game keeps track of how many humans a zombie converts, how many times a human
+has been converted, and how many people the doctor has cured. It is up to the coach
+and the players to determine what, if any, scores are meaningful here.Video Lessons
+The next 8 modules are videos
+7. How to put the tracker on the player: https://vimeo.com/797028417
+8. The Wearable Game Tracker: https://vimeo.com/797032446
+9. Running Red-Light Green-Light: https://vimeo.com/796115214
+10. ZTAG running pattern match: https://vimeo.com/796115198
+11. Running Zombie Survival Tag - No Doctor: https://vimeo.com/796115175
+12. Running Zombie Survival Tag - With Doctor: https://vimeo.com/796115189
+13. How to Add New Players to Games: https://vimeo.com/796115150
+14. Powering Down the Unit: https://vimeo.com/796115161
+17. ZTAG - Fix Duplicate zTagger Numbers: https://
+vimeo.com/797107997
+18. Finding lost zTaggers: https://vimeo.com/797107989
+19. ZTAG Game - Rock Paper Scissors: https://vimeo.com/797116400Closing the Unit
+When you are done with the unit, every zTagger should be firmly seated in its
+charging dock. You will want the wrist bands tucked behind it so that the clear
+plastic cover can close.
+The power cable will need to be tucked into the spaces between the zTaggers and the
+case as shown below.
+The Checklist is:
+- Router is stored in slot below the touch screen.
+- All cables for the router, and its bracket are stored below the touch screen.
+- All zTaggers firmly seated in their docks with wrist straps tucked behind so
+clear
+case lid can close.
+- Power Cord is unplugged and tucked into gaps between case and
+zTaggers.
+- Make sure nothing will poke or touch the touch screen.
+You can close the case.Trouble Shooting
+There are a few things that can go wrong, and here is how to fix them:
+Problem
+The Command Center cannot see any trackers to add to the game.
+Solution
+The Wireless router may not have Wi-Fi signal. (Check the side of the router - the
+white box with two antennas), If the blue Wi-Fi symbol is not blinking, the
+command case cannot talk to your trackers. To address this, completely power off
+the entire RED main power switch and power everything back on again.
+Problem
+Two (or more) trackers have the same ID number.
+Solution
+From the main screen, in the settings (the gear), reset all the wireless devices. This
+will cause the Command Case to renumber/resequencing all the units.Command Case Ports
+The Command Case has several ports.
+A: The USB ports. The wireless keyboard dongle goes into Port A.
+B: The HDMI cable plugs into this port.
+C: The SD Card Port - DO NOT REMOVE THE SD CARD! This is the "hard
+drive" for the ZTAG system. Removing it will cause the system to stop working.
+D: The onboard computer power button.
+E: The master power switch.
+F: The Master Power Cable Plug.Tips for Running Small Events
+ZTAG is a physically demanding game that can wear players out in 10 minutes. This can make
+it challenging to fill and hour with play time if you don't have groups to rotate.
+The following are some tips and strategies to give players more time to rest between rounds
+and get more game play while still filling the hour.
+These tips assume there are not enough players to rotate.
+1. Adding an external screen will great a natural break after each round for players to come and
+check their scores.
+2. Stick to the Red-Light, Green-Light, Pattern Match, Zombie Tag game sequence.
+3. However, let players play each game twice as you go through the sequence the first time.
+4. Take time after the first round to reinforce to players to find out what zTagger number they
+have. The coach can make sure every player knows who every other player is.
+5. After Pattern Match, you can challenge the players as a group to spend a few minutes
+thinking about how they could do the job better. Give them time to reflect, discuss, and plan
+how they could do better in the next round. It is okay to let them play this 2-3 more times to try
+different ways of optimizing scores.
+6. You can simplify the number of colors and shapes in the Pattern Match game for younger
+kids and add more complexity in later rounds by changing the settings.
+7. Adding a Doctor to the Zombie game really slows it down.
+8. You can use Rock, Paper, Scissors as a filler game between Zombie rounds. This swarm
+like tagging game is fun, and no players are eliminated, and (nearly) everyone winds up on the
+winning team.
+9. Give players water breaks.
+By using these techniques, it is possible to entertain 20 or fewer kids for 60 minutes.
+Tuning Pattern Match:
+Pattern Match can be made more complex by adding more shapes, or simpler by reducing
+shapes.
+The Shapes
+There are seven shapes in total, but the default game only has four shapes and colors active at
+the start of the game. The total list of shapes is:- Left Block Arrow
+- Triangle**
+- Square**
+- Pentagon
+- Star**
+- Hexagon
+- Circle**
+** These shapes are on by default.
+The colors
+There are seven colors. They are:
+- Red**
+- Gold
+- Yellow**
+- Green**
+- Blue**
+- Purple
+- White
+** These colors are active by default.Tips for Running Large Events
+The biggest issue with working with groups over 24 is rotating the players in and out. It takes
+time to take the zTaggers on and off.
+1. Break groups in 20 (save 4 zTaggers just in
+case)
+2. Run groups through:
+- 2 Minutes of Red-Light Green-Light
+- 2 Minutes of Pattern Match
+- 3 Minutes of Zombie Tag
+- this will leave you 3 minutes to switch over players, giving you about 20 players every 10
+minutes.
+3. If you are part of a larger event with more attractions, we recommend each rotation through
+line is 10 minutes where you are constantly pulling players out of line and getting them into the
+game as a group.
+4. If the players will be brought in a group - guided (by a teacher or counselor), we recommend
+20 minutes per group, running through:
+- Red Light Green Light once
+- Pattern Match Twice
+- Zombie Tag - no doctor
+- Zombie Tag - with doctor
+- Rock, Paper, Scissors (or back to Zombie tag)
+5. It is best to get the kids lined up and ready to have trackers put on their wrists.
+6. It is best to have a second table with a tablecloth on it for players leaving the game to put the
+tracker on when they leave.
+7. Keep all the players in a line until everyone has a tracker (keeps things organized)8. Bring all the kids as one into a circle at the same time to explain the rules for the game.
+9. After each game bring the players back into a circle and explain the next set of rules.
+–
+ZTAG Warranty and Annual Service Plan for Educational, Government, and Non-Profit
+Institutions
+ZTAG Warranty
+1. Extended Manufacturer's Warranty: Our systems have a special extended
+one-year manufacturer's warranty. Any zTagger Pros or Command Centers with a
+manufacturer's defect will be replaced at no charge. This warranty covers only
+the manufacturer's defects and excludes normal wear and tear from regular use.
+ZTAG Annual Service Plan
+2. Complimentary First-Year Annual Service Plan: All new purchases include a
+complimentary 12-month Annual Service Plan for the first year after purchase,
+which can be renewed annually. Note: The Annual Service Plan is not required for
+system operation.
+Annual Service Plan Benefits:
+● zTagger Pros:
+● Standard Retail Price: $300 each.
+● Under the Annual Service Plan: Up to six zTagger Pros can be replaced
+each year at $75 each for breakage due to accidents or excessive wear
+and tear.
+● After six replacements, additional zTagger Pros will be replaced at $200
+each (a $100 discount off the full retail price).
+● Command Centers:
+● Standard Retail Price: $3700 each.
+● Under the Annual Service Plan: One Command Center can be replaced
+yearly at $2300 for breakage due to accidents or excessive wear and tear.
+● After one replacement, additional Command Centers will be replaced at
+$2300 each (a $1400 discount off the full retail price).
+● Software / Firmware:
+● New Software Library / Firmware upgrade: $1000 and up
+● Under the Annual Service Plan: New Software Library release is included at
+no additional cost. Firmware upgrades are included at no additional cost.Annual Service Plan Cost:
+● $930 per system per year.
+Return and Analysis:
+ZTAG Inc. requires that all devices be returned when exchanged under warranty and the
+Annual Service Plan for component analysis to help with future improvements.
+Contact Information:
+If you are experiencing warranty issues, please contact ZTAG directly.
+–
+Video Transcripts
+
+Green Light Red Light Game
+Start recording. We're going to use a game called Red Light, Green Light. A Red Light, Green Light. I'm going to reset it. Now, none of the taggers were assigned. You could assign them individually by hitting the plus signs, or you saw assign all. It'll just make them all available. Then you want to make sure you have the time right. The minimum game is 30 seconds long, but two minutes is usually a standard game time. But for this demo, I'm going to leave it at 30 seconds. We're going to hit next, and we're going to start the match. You can hear them count down. They're loud and beeping. As they go, and they play. Okay, and they're playing. And the score is printed on the screen. One of them got eliminated. And we're almost to the end of this game. And the game is over. And there you have your final results of who won. And then you can go back and do it again or go back to the game Select Screen.
+
+ZTAG running pattern match
+The next important game in the sequence that we're going to use is pattern match. And so when you select a pattern match again, you have available taggers that are on and connected to the system. The simple thing to do is assign them all but you can send them one by one again, you can set the game length, which here is set to two minutes and there's different patterns that are available in different colors. We're going to set the game link to 30 seconds. To keep it simple for the demo, but two minutes to three minutes is a standard time and then we'll hit next. And we're ready to go. We'll start the match.  Oh those were too close together. No matching patterns there or colors, so they didn't do very well. Start blue, we don't have enough taggers here to actually have a meaningful score. So this won't make a whole lot of sense. Yellow, there we go. So they got a  point of triangles. They got a point.  Stars, they're going to get a point. And the game is over and you can see the score is shown and we can hit back and start the game over again or go back to game select. 
+
+ZTag Game - Zombie Survival Doctor
+Okay the second most popular version of this is zombie survival with the doctor. So let's take a look at that game. In this game you now have this new third column of the doctor. You're going to want to manually assign that player and I picked tagger 3. Let's see if that sticks through random assign. It shifted it so  you may have to go back and manually so that what you have, what you're for is because you're good. You probably want to pick somebody is probably physically big or you might pick somebody that is specifically want to call out because it's a heroic position We'll talk more about that later, but it's usually a good idea for you to intentionally pick who the doctor is going to  be. Like the other games there's  a variety of options and you know 180 seconds three minutes is the normal time. And ones we're ready to go we can start the match. And the doctor will have the white screen. The zombies will be red and the humans will be (green). So I have somebody's infected and the doctor saved him. And so,  the doctor stuns the zombies. So I'm turning all of my humans into zombies so the game will end. When all the, there you go.
+
+
+ZTag Game - Zombie Survival - ND
+So the most popular game is going to be zombies survival and there's two flavors of that. We're gonna start with the regular Zombie Survival and this time I've added a few more taggers because there's going to be a minimum of two zombies. So when I hit assign, it's gonna go ahead and give us two zombies and the rest are gonna be human. Again, the match length here is a little longer. So we're going to hit the gear (settings) and it's 180 seconds or three minutes. That's a standard tag time, but we are going to say 30 seconds because it's a demo. Save our settings and then we're going to go to next and now we're ready to start the match. So I quickly infected all the humans and in a matter of seconds, you can see them start seeing them moving over and the taggers let you know and the game is over and you can go back to assign players to play another round. Hit reset and then randomly assign it'll assign different players, but you can also manually assign players. And there's few other options in the setup screen, but this is the basic game mode. you want to run it for three minutes. 
+
+
+ZTAG Game - Rock Paper Scissors
+So the next game we're going to take a look at is rock, paper, scissors, and this is an extra game outside of the normal set of games that we're going to play. And in this particular game, there are three groups of colors, paper which is green, rock which is red and scissors which is blue. You would randomly assign taggers to each group and then go ahead and start the game. Let's turn some taggers on and get them into the game. And that we should begin to see is as the taggers join they should appear as players that can be assigned into the game. So you could see tagger 23 has shown up and in a few seconds tagger 22 is going to join. And then we're going to see the very next one appear and that is tagger 10. And we can randomly assign them to the games. Let's make sure the game time is not super long (selected 30 seconds). To launch the game, we would start the match. And in this particular instance, it's game over because rock converted everyone. Way to go rock!
+
+ZTag - Reorder Taggers
+If you need to reset, the tagger numbers is that you can go to the settings, click devices and it's going to list all taggers that it knows about that are connected to the device. Now many of three of these are out of the case the rest are in the case, but they're functionally on and the ZUES knows about them and it's tracking them. If you hit reset devices up in the corner, it  will reassign the numbers you can even see it says look it's charging them. And so you can get it to reassign the numbers and clean them up. So if you have duplicate tagger numbers, in fact, we have 23 and a 23. You could see in the lower right hand corner. There's a duplicate number we can hit reset devices and it's going to reassign them and they're gonna blink white as they're being reassigned and it's going to start working their way through and if you look the first three taggers in case were given new numbers. So the three that we're out, one, two, or three and now one, two and three and the ones that are in the charging station it reassigned the number all the way through.
+
+ZTag - Adding Players
+Now it is possible to add players even as you're ready to start  the game as long as the hasn't started. So let's take a look at Zombie Survival. We're gonna hit reset and it'll remember the state you were in the last time and say, oh. let's randomly assign and somebody new comes and going I want to play. Well you would turn on their game tagger. It'll take  a second to turn on so you're gonna have to be patient. And as soon as the tagger registers itself with the system, we will their tagger pop up (there  it is). It is number 11 popped up in a sign players so we can assign them to the human squad, so it is possible to add players to the mix or remove them from the mix as they get ready to play.
+
+Find Lost Taggers
+Now let's say you're not sure where a tagger is. Maybe somebody playing wandered off with one. You can , go to settings. Go to devices. Pick the tagger that you think you're missing. Ignore the error message, and then hit "find". That will cause the tagger to beep like crazy and it will display the tagger screen "Please return  tagger". 
+
+ZTag Command case power down
+And one of the last things you want to do when you're done before you turn it all off is, there is a power off button, shut it down.
